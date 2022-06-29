@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "452048603407",
+    "project_id": "redfox-e-commerce-78719",
+    "storage_bucket": "redfox-e-commerce-78719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452048603407:android:3b384e657ee9d3bafdd67a",
+        "android_client_info": {
+          "package_name": "devs.redfox.ECommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452048603407-ms8smh36asikilglctt2phjo3slq197h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devs.redfox.ECommerce",
+            "certificate_hash": "85e1cbba514b243dd32b4335d42ba6a402f5c85e"
+          }
+        },
+        {
+          "client_id": "452048603407-lis6s6lpnc89ie1nerap5t3h5dvpgst4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQwFLUqzGoRPIhVqux4cQl25lrg_Tqq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452048603407-lis6s6lpnc89ie1nerap5t3h5dvpgst4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
